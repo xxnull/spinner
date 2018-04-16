@@ -1,8 +1,8 @@
 {
-    "name": "PhaserES6Webpack",
+    "name": "Spinner",
     "version": "1.2.1",
     "description": "",
-    "author": "leandro cabrera <leandcabrera@gmail.com>",
+    "author": "Alejandro Diaz <alejandrodiazok@gmail.com",
     "main": "index.js",
     "scripts": {
         "dev": "webpack",
